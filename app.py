@@ -34,4 +34,4 @@ def perform_query() -> Tuple[Response, int]:
 
 
 if __name__ == '__main__':
-    app.run(host="localhost", port=10001, debug=True)
+    app.run(host="localhost", port=25000, debug=True)
